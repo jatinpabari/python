@@ -1,0 +1,1 @@
+print(str('test'.find('t')))

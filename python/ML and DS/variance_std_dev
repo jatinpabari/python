@@ -1,0 +1,6 @@
+import numpy as np
+
+
+incomes = np.random.normal(25000, 5000, 10000)
+print('standard dev: ' + str(incomes.std()))
+print('variance : ' + str(incomes.var()))
